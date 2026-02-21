@@ -84,7 +84,7 @@ def load_textures():
 
     texture.load('tank_destroyed', '../img/tank_destroy.png')
 
-    texture.load('fire4', '../img/fire4.png')
+    texture.load('fire4s', '../img/fire4.png')
 
 
 
